@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hasan Bakay | Bayan Kuaförü</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fdfdfd;
+      color: #222;
+    }
+    header {
+      background: #000;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+    header p {
+      font-size: 18px;
+      color: #ccc;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #111;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 5px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 12px 20px;
+      background: #000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 15px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #111;
+      color: #aaa;
+      font-size: 14px;
+    }
+    .social a {
+      margin: 0 10px;
+      color: #000;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    @media(max-width: 600px) {
+      header h1 { font-size: 26px; }
+      section { padding: 20px 15px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Hasan Bakay</h1>
+    <p>Bayan Kuaförü | Kişiye Özel Kesim ve Renklendirme</p>
+  </header>
+
+  <section>
+    <h2>Hakkımda</h2>
+    <p>Merhaba, ben Hasan Bakay. Saç kesimi ve renklendirme sanatını kişiye özel bir deneyim haline getiriyorum. Her müşteri benim için benzersizdir. Şıklığı ve zarafeti ön planda tutan dokunuşlar için doğru yerdesiniz.</p>
+
+    <h2>Hizmetler</h2>
+    <ul>
+      <li>Kişiye Özel Saç Kesimi</li>
+      <li>Profesyonel Renklendirme</li>
+      <li>Bakım & Şekillendirme</li>
+      <li>Gelin Saçı & Özel Gün Hazırlığı</li>
+    </ul>
+
+    <h2>Randevu Al</h2>
+    <p>Telefon: <a href="tel:+994708925369">070 892 53 69</a></p>
+    <a class="btn" href="https://www.instagram.com/hasanbakay_" target="_blank">Instagram'da Takip Et</a>
+
+    <h2>Konum</h2>
+    <p>Bakü, Azerbaycan (Detaylı konum için iletişime geçin.)</p>
+  </section>
+
+  <footer>
+    <div class="social">
+      <a href="https://www.instagram.com/hasanbakay_" target="_blank">Instagram</a> |
+      <a href="tel:+994708925369">Ara</a>
+    </div>
+    <p>&copy; 2025 Hasan Bakay. Tüm Hakları Saklıdır.</p>
+  </footer>
+
+</body>
+</html>
+	◦	
